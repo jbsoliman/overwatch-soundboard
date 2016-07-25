@@ -175,8 +175,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 break;
 
         }
-            Intent intent = new Intent(MainActivity.this, ListActivity.class);
-            startActivity(intent);
+        Intent intent = new Intent(MainActivity.this, MenuActivity.class);
+        startActivity(intent);
 
 
 

@@ -6,14 +6,16 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="New Button"
+        android:text="Info"
         android:id="@+id/infobutton"
-        android:layout_weight=".5" />
+        android:layout_weight=".5"
+        android:onClick="info"/>
 
     <Button
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text="Sounds"
         android:id="@+id/soundbutton"
-        android:layout_weight=".5" />
+        android:layout_weight=".5"
+        android:onClick="sounds"/>
 </LinearLayout>
