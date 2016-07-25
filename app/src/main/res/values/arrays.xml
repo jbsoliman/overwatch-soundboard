@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    //ANNOUNCER DATA
+    <string-array name="announcer">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Six</item>
+        <item>Seven</item>
+        <item>Eight</item>
+        <item>Nine</item>
+        <item>Ten</item>
+        <item>Attack Commences in 60 Seconds</item>
+        <item>Attack Commences in 30 Seconds</item>
+        <item>Attack Commences in 20 Seconds</item>
+        <item>Attack Commences in 10 Seconds</item>
+    </string-array>
+
+    <integer-array name="announcerids">
+        <item>@raw/one</item>
+        <item>@raw/two</item>
+        <item>@raw/three</item>
+        <item>@raw/four</item>
+        <item>@raw/five</item>
+        <item>@raw/six</item>
+        <item>@raw/seven</item>
+        <item>@raw/eight</item>
+        <item>@raw/nine</item>
+        <item>@raw/ten</item>
+        <item>@raw/attackcom60</item>
+        <item>@raw/attackcom30</item>
+        <item>@raw/attackcom20</item>
+        <item>@raw/attackcom10</item>
+    </integer-array>
+
+
+
+
+
+    //DVA DATA
+
+    <string-array name="dva">
+        <item>Korean 1</item>
+        <item>Korean 2</item>
+        <item>Korean 3</item>
+        <item>Korean 4</item>
+        <item>Korean 5</item>
+        <item>Korean 6</item>
+        <item>Korean 7</item>
+        <item>Korean 8</item>
+        <item>Korean 10</item>
+        <item>Korean 11</item>
+        <item>Korean 12</item>
+        <item>Korean 13</item>
+        <item>Korean 14</item>
+        <item>Korean 15</item>
+        <item>Korean 16</item>
+    </string-array>
+
+    <integer-array name="dvaids">
+        <item>@raw/kor1</item>
+        <item>@raw/kor2</item>
+        <item>@raw/kor3</item>
+        <item>@raw/kor4</item>
+        <item>@raw/kor5</item>
+        <item>@raw/kor6</item>
+        <item>@raw/kor7</item>
+        <item>@raw/kor8</item>
+        <item>@raw/kor10</item>
+        <item>@raw/kor11</item>
+        <item>@raw/kor12</item>
+        <item>@raw/kor13</item>
+        <item>@raw/kor14</item>
+        <item>@raw/kor15</item>
+        <item>@raw/kor16</item>
+    </integer-array>
+
+
+
+
+
+    // BASTION DATA
+
+    <string-array name="bastion">
+        <item>Beep</item>
+        <item>Beep</item>
+        <item>Beep</item>
+        <item>Beep</item>
+        <item>Beep</item>
+        <item>Beep</item>
+        <item>Beep</item>
+        <item>Beep</item>
+        <item>Beep</item>
+        <item>Beep</item>
+        <item>Beep</item>
+        <item>Beep</item>
+    </string-array>
+
+    <integer-array name="bastionids">
+        <item>@raw/a</item>
+        <item>@raw/b</item>
+        <item>@raw/c</item>
+        <item>@raw/d</item>
+        <item>@raw/e</item>
+        <item>@raw/f</item>
+        <item>@raw/g</item>
+        <item>@raw/h</item>
+        <item>@raw/i</item>
+        <item>@raw/j</item>
+        <item>@raw/k</item>
+        <item>@raw/l</item>
+    </integer-array>
+
+
+    //GENJI DATA
+
+
+    <string-array name="genji">
+        <item>Hello.</item>
+        <item>After this, there will only be one victor.</item>
+        <item>And you, master.</item>
+        <item>An excellent fight!</item>
+        <item>A steady blade balances us all.</item>
+        <item>Attack the objective!</item>
+        <item>Behind you!</item>
+        <item>Defend as one! Victory is near.</item>
+        <item>Eliminate the target</item>
+        <item>Faster than sight.</item>
+
+    </string-array>
+
+    <integer-array name="genjiids">
+        <item>@raw/hello</item>
+        <item>@raw/afterthis</item>
+        <item>@raw/andyoumaster</item>
+        <item>@raw/anexcellent</item>
+        <item>@raw/asteadyblade</item>
+        <item>@raw/attack</item>
+        <item>@raw/behindyou</item>
+        <item>@raw/defendasone</item>
+        <item>@raw/eliminate</item>
+        <item>@raw/faster</item>
+
+    </integer-array>
+
+
+    //HANZO DATA
+
+
+    <string-array name="hanzo">
+        <item>Greetings.</item>
+        <item>A fine kill.</item>
+        <item>A minor setback.</item>
+        <item>A warrior`s reward.</item>
+        <item>A worthy strike!</item>
+
+    </string-array>
+
+    <integer-array name="hanzoids">
+        <item>@raw/greetings</item>
+        <item>@raw/afine</item>
+        <item>@raw/aminor</item>
+        <item>@raw/awarriors</item>
+        <item>@raw/aworthystrike</item>
+
+    </integer-array>
+
+
+    //JUNKRAT
+
+
+    <string-array name="junkrat">
+        <item>G`Day Mate!</item>
+        <item>Come out and play!</item>
+        <item>Don`t mind if I do.</item>
+        <item>Bombs away!</item>
+        <item>Fire in the hole!</item>
+
+    </string-array>
+
+    <integer-array name="junkratids">
+        <item>@raw/junkrat1</item>
+        <item>@raw/junkrat2</item>
+        <item>@raw/junkrat3</item>
+        <item>@raw/junkrat4</item>
+        <item>@raw/junkrat5</item>
+
+    </integer-array>
+
+
+    //LUCIO
+    <string-array name="lucio">
+        <item>Hello, Hello!</item>
+        <item>Alright let`s push the payload!</item>
+        <item>Good as new!</item>
+        <item>Oh oh, here they come!</item>
+        <item>Oh, let`s break it down!</item>
+
+    </string-array>
+
+    <integer-array name="lucioids">
+        <item>@raw/lucio1</item>
+        <item>@raw/lucio2</item>
+        <item>@raw/lucio3</item>
+        <item>@raw/lucio4</item>
+        <item>@raw/lucio5</item>
+
+    </integer-array>
+
+
+    //MCCREE
+
+    <string-array name="mccree">
+        <item>Hello.</item>
+        <item>Quit lollygagging, get on the point!</item>
+        <item>How do you like me now?</item>
+        <item>Not bad, if I do say so myself.</item>
+        <item>It`s high noon.</item>
+
+    </string-array>
+
+    <integer-array name="mccreeids">
+        <item>@raw/mccree1</item>
+        <item>@raw/mccree2</item>
+        <item>@raw/mccree3</item>
+        <item>@raw/mccree4</item>
+        <item>@raw/mccree5</item>
+
+    </integer-array>
+
+    //MEI
+
+    <string-array name="mei">
+        <item>Laugh</item>
+        <item>Cold as ice.</item>
+        <item>Curiosity leads to new adventures!</item>
+        <item>Hey, look at me!</item>
+        <item>Freeze! Don`t move.</item>
+
+    </string-array>
+
+    <integer-array name="meiids">
+        <item>@raw/mei1</item>
+        <item>@raw/mei2</item>
+        <item>@raw/mei3</item>
+        <item>@raw/mei4</item>
+        <item>@raw/mei5</item>
+
+    </integer-array>
+
+    //MERCY
+
+    <string-array name="mercy">
+        <item>Hello!</item>
+        <item>I`ll be watching over you.</item>
+        <item>Flatlined.</item>
+        <item>Good as new.</item>
+        <item>Heroes never die!</item>
+
+    </string-array>
+
+    <integer-array name="mercyids">
+        <item>@raw/mercy1</item>
+        <item>@raw/mercy2</item>
+        <item>@raw/mercy3</item>
+        <item>@raw/mercy4</item>
+        <item>@raw/mercy5</item>
+
+    </integer-array>
+
+    //PHARAH
+    <string-array name="pharah">
+        <item>Pharah reporting.</item>
+        <item>Back into the fray!</item>
+        <item>Bring it!</item>
+        <item>Eliminate the target.</item>
+        <item>Justice rains from above!</item>
+
+    </string-array>
+
+    <integer-array name="pharahids">
+        <item>@raw/pharah1</item>
+        <item>@raw/pharah2</item>
+        <item>@raw/pharah3</item>
+        <item>@raw/pharah4</item>
+        <item>@raw/pharah5</item>
+
+    </integer-array>
+
+
+
+
+    //REAPER
+    <string-array name="reaper">
+        <item>Reaper here.</item>
+        <item>I am the angel of death.</item>
+        <item>Revenge is the only thing left for me.</item>
+        <item>The darkness consumes.</item>
+        <item>Death comes.</item>
+
+    </string-array>
+
+    <integer-array name="reaperids">
+        <item>@raw/reaper1</item>
+        <item>@raw/reaper2</item>
+        <item>@raw/reaper3</item>
+        <item>@raw/reaper4</item>
+        <item>@raw/reaper5</item>
+
+    </integer-array>
+
+
+
+    //REINHARDT
+    <string-array name="reinhardt">
+        <item>Hello!</item>
+        <item>Reinhardt at your servie</item>
+        <item>Come out and face me!</item>
+        <item>Don`t worry my friends, I will be your shield!</item>
+        <item>Back into the fray!</item>
+
+    </string-array>
+
+    <integer-array name="reinhardtids">
+        <item>@raw/reinhardt1</item>
+        <item>@raw/reinhardt2</item>
+        <item>@raw/reinhardt3</item>
+        <item>@raw/reinhardt4</item>
+        <item>@raw/reinhardt5</item>
+
+    </integer-array>
+
+
+
+    //ROADHOG
+    <string-array name="roadhog">
+        <item>Roadhog rides again.</item>
+        <item>About time.</item>
+        <item>Say bacon one more time.</item>
+        <item>Here little piggy...</item>
+        <item>Life is pain... So is death.</item>
+
+    </string-array>
+
+    <integer-array name="roadhogids">
+        <item>@raw/roadhog1</item>
+        <item>@raw/roadhog2</item>
+        <item>@raw/roadhog3</item>
+        <item>@raw/roadhog4</item>
+        <item>@raw/roadhog5</item>
+
+    </integer-array>
+
+
+
+    //SOLDIER
+    <string-array name="soldier">
+        <item>Soldier: 76 reporting for duty.</item>
+        <item>I`m just getting started.</item>
+        <item>Knock me down, and I`ll keep getting back up.</item>
+        <item>The fight ain`t over yet.</item>
+        <item>Tactical visor ready for deployment.</item>
+
+    </string-array>
+
+    <integer-array name="soldierids">
+        <item>@raw/soldier1</item>
+        <item>@raw/soldier2</item>
+        <item>@raw/soldier3</item>
+        <item>@raw/soldier4</item>
+        <item>@raw/soldier5</item>
+
+    </integer-array>
+
+
+
+    //SYMMETRA
+    <string-array name="symmetra">
+        <item>Symmetra reporting.</item>
+        <item>The cake is not a lie.</item>
+        <item>Anything is possible</item>
+        <item>Beauty can be found when everything is in harmony.</item>
+        <item>Freedom is a convenient illusion.</item>
+
+    </string-array>
+
+    <integer-array name="symmetraids">
+        <item>@raw/symmetra1</item>
+        <item>@raw/symmetra2</item>
+        <item>@raw/symmetra3</item>
+        <item>@raw/symmetra4</item>
+        <item>@raw/symmetra5</item>
+
+    </integer-array>
+
+
+
+    //TORBJORN
+    <string-array name="torbjorn">
+        <item>Hello!</item>
+        <item>I am not a dwarf!</item>
+        <item>If you can`t stand the heat, get out of my way.</item>
+        <item>Hammer time!</item>
+        <item>Molten core!</item>
+
+    </string-array>
+
+    <integer-array name="torbjornids">
+        <item>@raw/torbjorn1</item>
+        <item>@raw/torbjorn2</item>
+        <item>@raw/torbjorn3</item>
+        <item>@raw/torbjorn4</item>
+        <item>@raw/torbjorn5</item>
+
+    </integer-array>
+
+
+
+
+
+    //TRACER
+    <string-array name="tracer">
+        <item>Hiya, Tracer here!</item>
+        <item>Thanks love!</item>
+        <item>The world could always use more heroes.</item>
+        <item>This time, stay down.</item>
+        <item>Cheers love, the cavalry`s here!</item>
+
+    </string-array>
+
+    <integer-array name="tracerids">
+        <item>@raw/tracer1</item>
+        <item>@raw/tracer2</item>
+        <item>@raw/tracer3</item>
+        <item>@raw/tracer4</item>
+        <item>@raw/tracer5</item>
+
+    </integer-array>
+
+
+
+    //WIDOWMAKER
+    <string-array name="widowmaker">
+        <item>WIdowmaker here.</item>
+        <item>Bonjour.</item>
+        <item>One shot, one kill.</item>
+        <item>What`s an aimbot?</item>
+        <item>No one can hide from my sight.</item>
+
+    </string-array>
+
+    <integer-array name="widowmakerids">
+        <item>@raw/widowmaker1</item>
+        <item>@raw/widowmaker2</item>
+        <item>@raw/widowmaker3</item>
+        <item>@raw/widowmaker4</item>
+        <item>@raw/widowmaker5</item>
+
+    </integer-array>
+
+
+
+    //WINSTON
+    <string-array name="winston">
+        <item>Winston reporting.</item>
+        <item>Hi there.</item>
+        <item>One giant leap for Overwatch.</item>
+        <item>Survival of the fittest.</item>
+        <item>Winston to the rescue!</item>
+
+    </string-array>
+
+    <integer-array name="winstonids">
+        <item>@raw/winston1</item>
+        <item>@raw/winston2</item>
+        <item>@raw/winston3</item>
+        <item>@raw/winston4</item>
+        <item>@raw/winston5</item>
+
+    </integer-array>
+
+
+
+
+    //ZARYA
+    <string-array name="zarya">
+        <item>Zarya ready for duty!</item>
+        <item>A champion`s reward.</item>
+        <item>Do you even lift?</item>
+        <item>Peace through superior firepower.</item>
+        <item>Practice makes perfect!</item>
+
+    </string-array>
+
+    <integer-array name="zaryaids">
+        <item>@raw/zarya1</item>
+        <item>@raw/zarya2</item>
+        <item>@raw/zarya3</item>
+        <item>@raw/zarya4</item>
+        <item>@raw/zarya5</item>
+
+    </integer-array>
+
+
+
+
+    //ZENYATTA
+    <string-array name="zenyatta">
+        <item>Zenyatta is here.</item>
+        <item>Everything flows in harmony.</item>
+        <item>You have done well.</item>
+        <item>Your weakness is revealed.</item>
+        <item>Embrace tranquility.</item>
+
+    </string-array>
+
+    <integer-array name="zenyattaids">
+        <item>@raw/zenyatta1</item>
+        <item>@raw/zenyatta2</item>
+        <item>@raw/zenyatta3</item>
+        <item>@raw/zenyatta4</item>
+        <item>@raw/zenyatta5</item>
+
+    </integer-array>
+
+
+
+
+</resources>
