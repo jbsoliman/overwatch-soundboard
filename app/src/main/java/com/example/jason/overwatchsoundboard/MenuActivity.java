@@ -42,6 +42,7 @@ public class MenuActivity extends MainActivity {
     }
 
     public void info (View view){
-        Toast.makeText(MenuActivity.this, "info button pressed", Toast.LENGTH_SHORT).show();
+        Intent intent = new Intent(MenuActivity.this, InfoActivity.class);
+        startActivity(intent);
     }
 }
