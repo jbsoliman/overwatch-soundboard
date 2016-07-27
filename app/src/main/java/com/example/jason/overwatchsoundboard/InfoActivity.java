@@ -47,91 +47,91 @@ public class InfoActivity extends MenuActivity {
 
     private String choice() {
         String url;
-        if (Constants.choice == "Announcer") {
+        if (Constants.choice.equals("Announcer")) {
             url = "https://playoverwatch.com/en-us/heroes/";
         }
 
-        else if (Constants.choice == "Bastion") {
+        else if (Constants.choice.equals("Bastion")) {
             url = "https://playoverwatch.com/en-us/heroes/bastion/";
         }
 
-        else if (Constants.choice == "D.Va") {
+        else if (Constants.choice.equals("D.Va")) {
             url = "https://playoverwatch.com/en-us/heroes/dva/";
         }
 
-        else if (Constants.choice == "Genji") {
+        else if (Constants.choice.equals("Genji")) {
            url = "https://playoverwatch.com/en-us/heroes/genji/";
         }
 
-        else if (Constants.choice == "Hanzo") {
+        else if (Constants.choice.equals("Hanzo")) {
             url = "https://playoverwatch.com/en-us/heroes/hanzo/";
         }
 
-        else if (Constants.choice == "Junkrat") {
+        else if (Constants.choice.equals("Junkrat")) {
             url = "https://playoverwatch.com/en-us/heroes/junkrat/";
         }
 
-        else if (Constants.choice == "Lucio") {
+        else if (Constants.choice.equals("Lucio")) {
             url = "https://playoverwatch.com/en-us/heroes/lucio/";
         }
 
-        else if (Constants.choice == "McCree") {
+        else if (Constants.choice.equals("McCree")) {
             url = "https://playoverwatch.com/en-us/heroes/mccree/";
         }
 
-        else if (Constants.choice == "Mei") {
+        else if (Constants.choice.equals("Mei")) {
             url = "https://playoverwatch.com/en-us/heroes/mei/";
         }
 
-        else if (Constants.choice == "Mercy") {
+        else if (Constants.choice.equals("Mercy")) {
             url = "https://playoverwatch.com/en-us/heroes/mercy/";
         }
 
-        else if (Constants.choice == "Pharah") {
+        else if (Constants.choice.equals("Pharah")) {
             url = "https://playoverwatch.com/en-us/heroes/pharah/";
         }
 
-        else if (Constants.choice == "Reaper") {
+        else if (Constants.choice.equals("Reaper")) {
             url = "https://playoverwatch.com/en-us/heroes/reaper/";
         }
 
-        else if (Constants.choice == "Reinhardt") {
+        else if (Constants.choice.equals("Reinhardt")) {
             url = "https://playoverwatch.com/en-us/heroes/reinhardt/";
         }
 
-        else if (Constants.choice == "Roadhog") {
+        else if (Constants.choice.equals("Roadhog")) {
             url = "https://playoverwatch.com/en-us/heroes/roadhog/";
         }
 
-        else if (Constants.choice == "Soldier: 76") {
+        else if (Constants.choice.equals("Soldier: 76")) {
             url = "https://playoverwatch.com/en-us/heroes/soldier-76/";
         }
 
-        else if (Constants.choice == "Symmetra") {
+        else if (Constants.choice.equals("Symmetra")) {
             url = "https://playoverwatch.com/en-us/heroes/symmetra/";
         }
 
-        else if (Constants.choice == "Torbjorn") {
+        else if (Constants.choice.equals("Torbjorn")) {
             url = "https://playoverwatch.com/en-us/heroes/torbjorn/";
         }
 
-        else if (Constants.choice == "Tracer") {
+        else if (Constants.choice.equals("Tracer")) {
             url = "https://playoverwatch.com/en-us/heroes/tracer/";
         }
 
-        else if (Constants.choice == "Widowmaker") {
+        else if (Constants.choice.equals("Widowmaker")) {
             url = "https://playoverwatch.com/en-us/heroes/widowmaker/";
         }
 
-        else if (Constants.choice == "Winston") {
+        else if (Constants.choice.equals("Winston")) {
             url = "https://playoverwatch.com/en-us/heroes/winston/";
         }
 
-        else if (Constants.choice == "Zarya") {
+        else if (Constants.choice.equals("Zarya")) {
             url = "https://playoverwatch.com/en-us/heroes/zarya/";
         }
 
-        else if (Constants.choice == "Zenyatta") {
+        else if (Constants.choice.equals("Zenyatta")) {
             url = "https://playoverwatch.com/en-us/heroes/zenyatta/";
         }
 
